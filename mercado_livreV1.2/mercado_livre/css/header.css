@@ -1,0 +1,33 @@
+header{
+    font-size: 35px;
+    position: relative;
+    top: 80px;
+    left: 350px;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    font-family: Coiny;
+    color: rgb(0, 0, 0);
+}
+.resumo{
+    font-size: 50px;
+    position: relative;
+    top: 100px;
+    left: -650px;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+}
+
+.produtos{
+    font-size: 50px;
+    position: relative;
+    top: 150px;
+    left: -1000px;
+    z-index: 2;
+    display: flex;
+    align-items: center;   
+}
+.titulo{
+opacity: 1;
+}

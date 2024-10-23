@@ -1,0 +1,106 @@
+section{
+    width: 1300px;
+    height: 2500px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-top: -800px;
+
+
+}
+.helenistico{
+    background-color: yellow;
+    width: 400px;
+    height: 35pc;
+    align-items: center;
+    justify-content: center;
+    padding: 5px; 
+    margin: 5px;
+}
+.hele{
+    margin-left: 50px;
+    font-size: 40px;
+    font-family: new tegomin;
+}
+.div_vasos{
+    background-color: yellow;
+    width: 400px;
+    height: 35pc;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    margin: 5px;
+}
+.vaso{
+    margin-left: 80px;
+    font-size: 40px;
+    font-family: new tegomin;
+}
+.div_pinturas{
+    background-color: yellow;
+    width: 400px;
+    height: 35pc;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    margin: 5px;
+}
+.pintura{
+    margin-left: 50px;
+    font-size: 40px;
+    font-family: new tegomin;
+}
+.div_esculturas{
+    background-color: yellow;
+    width: 400px;
+    height: 35pc;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    margin: 5px;
+}
+.escultura{
+    margin-left: 50px;
+    font-size: 40px;
+    font-family: new tegomin;
+}
+p{
+    font-size: 18px;
+    font-family: Oswald;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: white;
+}
+
+.div_vaso{
+    background-color: yellow;
+    width: 400px;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    margin: 5px;
+}
+.img_vaso{
+    height: 220px;
+    width: 200px;
+    margin-left: 100px;
+
+}
+.corpo{
+    display: flex;
+}
+.img_escultura{
+    height: 220px;
+    width: 300px;
+margin-left: 51px;
+}
+.absoluto1{
+    margin-left: 100px;
+
+}
+h3{
+    color: red;
+    font-family: Oswald;
+}

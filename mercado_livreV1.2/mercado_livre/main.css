@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Coiny&family=New+Tegomin&family=Oswald:wght@200..700&family=Sedgwick+Ave&display=swap');
+body{
+    background-image: url(./img/fundo.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    align-items: center;
+    position: relative;
+}
+a{
+    text-decoration: none;
+    text-decoration-line: none;
+    text-shadow: 100px;
+    color: black;    
+}
+img{
+    width: 100px;
+    height: 100px;
+}

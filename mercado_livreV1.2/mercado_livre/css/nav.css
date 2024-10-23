@@ -1,0 +1,33 @@
+
+nav{
+    background-color: yellow;
+    width: 99%;
+    height: 100px;
+    padding: 10px;
+    font-size: 30px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 3;
+    opacity: 1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+}
+.logo{
+    width: 250px;
+    height: 80px;
+    transition: 0.5s;
+}
+:hover.logo{
+    transform: scale(1.2);
+}
+.botao{
+    width: 100px;
+    height: 100px;
+    transition: 0.5s;
+}
+:hover.botao{
+transform: scale(1.2);
+}
